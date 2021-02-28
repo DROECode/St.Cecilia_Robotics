@@ -11,19 +11,33 @@ These programs were created with the assumption that the files would be run usin
 The robot followed no set instructions and was a result of the team's ideas in order to solve the problems on the game board used in the 2020-2021 First Lego League robotics challenge.   
 
 CHALLENGE - PROGRAM NAME - ADDED TO THE CHALLENGE FOR POINTS
-  M1 - 
-  M2 - 
-  M3 - 
-  M4 - 
-  M5 - 
-  M6 - 
-  M7 - 
-  M8 - 
-  M9 - 
-  M10 - 
-  M11 - 
-  M12 - 
-  M13 - 
-  M14 - 
-  M15 - 
+
+M1 - 
   
+M2 - 
+  
+M3 - 
+  
+M4 - 
+  
+M5 - 
+  
+M6 - 
+  
+M7 - 
+  
+M8 - 
+  
+M9 - 
+  
+M10 - 
+  
+M11 - 
+  
+M12 - 
+  
+M13 - 
+  
+M14 - 
+
+M15 - 
