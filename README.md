@@ -8,36 +8,44 @@ To view the files and programs, you will need to install the Lego Mindstorms for
 
 These programs were created with the assumption that the files would be run using our "Llama" robot built by the team using the Lego Mindstorms EV3 system.  
 
-The robot followed no set instructions and was a result of the team's ideas in order to solve the problems on the game board used in the 2020-2021 First Lego League robotics challenge.   
+The robot followed no set instructions and was a result of the team's ideas in order to solve the problems on the "RePLAY" board used in the 2020-2021 First Lego League robotics challenge.   For more infomration about First Lego League please go to: https://www.firstinspires.org/robotics/fll/challenge-and-season-info 
 
-CHALLENGE - PROGRAM NAME - ADDED TO THE CHALLENGE FOR POINTS
 
-M1 - 
-  
-M2 - 
-  
-M3 - 
-  
-M4 - 
-  
-M5 - 
-  
-M6 - 
-  
-M7 - 
-  
-M8 - 
-  
-M9 - 
-  
-M10 - 
-  
-M11 - 
-  
-M12 - 
-  
-M13 - 
-  
-M14 - 
+Practice Target Points = TBD
 
-M15 - 
+CHALLENGE - PROGRAM NAME - ADDED TO THE CHALLENGE - POINTS
+
+M00 - EQUIPMENT INSPECTION BONUS - All team equipment fits in the small inspection space - YES - YES - 
+
+M1 - Innovation Project - We will post a google doc location with the presentation materials.
+  
+M2 - STEP COUNTER - ROBROS_STEPCHAIR - YES
+  
+M3 - SLIDE - TBD - TBD -
+  
+M4 - BENCH - TBD - YES -
+  
+M5 - BASKETBALL - TBD - YES - 
+  
+M6 - PULL-UP BAR - TBD - TBD -
+  
+M7 - ROBOT DANCE - TBD - YES -
+  
+M8 - BOCCIA - TBD - YES - 
+  
+M9 - TIRE FLIP - TBD - NO - 
+  
+M10 - CELL PHONE - TBD - NO - 
+  
+M11 - TREADMILL - TBD - YES - 
+  
+M12 - ROW MACHINE - TBD - YES - 
+  
+M13 - WEIGHT MACHINE - TBD - YES - 
+  
+M14 - HEALTH UNITS - TBD - YES - 
+
+M15 - PRECISION - YES - YES - # OF TOKENS STILL ON FIELD
+
+
+
