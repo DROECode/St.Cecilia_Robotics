@@ -1,6 +1,8 @@
-# St.Cecilia_Robotics
+# St.Cecilia_Robotics 
 
-Copyright St. Cecilia 2021 First Lego League Robotics Team
+The Cyclonebots
+
+Copyright St. Cecilia 2021 First Lego League The Cyclonebots Robotics Team
 
 This is a public repository to share and store robotics programs for reference, learning and innovation.  
 
