@@ -1,6 +1,8 @@
-# St.Cecilia_Robotics
+# St.Cecilia_Robotics 
 
-Copyright St. Cecilia 2021 First Lego League Robotics Team
+The Cyclonebots
+
+Copyright St. Cecilia 2021 First Lego League The Cyclonebots Robotics Team
 
 This is a public repository to share and store robotics programs for reference, learning and innovation.  
 
@@ -15,37 +17,38 @@ Practice Target Points = TBD
 
 CHALLENGE - PROGRAM NAME - ADDED TO THE CHALLENGE - POINTS
 
-M00 - EQUIPMENT INSPECTION BONUS - All team equipment fits in the small inspection space - YES - YES - 
+M00 - EQUIPMENT INSPECTION BONUS - All team equipment fits in the small inspection space - YES - YES - 25
 
-M1 - Innovation Project - We will post a google doc location with the presentation materials.
+M1 - Innovation Project - We will post a google doc location with the presentation materials. - YES - YES - 20 
   
-M2 - STEP COUNTER - ROBROS_STEPCHAIR - YES
+M2 - STEP COUNTER - stepChair_Robros - YES - YES - 20
   
-M3 - SLIDE - TBD - TBD -
+M3 - SLIDE - slide_Robros - Yes - Yes - 20 
   
-M4 - BENCH - TBD - YES -
+M4 - BENCH - bench_ROBROS - YES - YES - 25
   
 M5 - BASKETBALL - TBD - YES - 
   
-M6 - PULL-UP BAR - TBD - TBD -
+M6 - PULL-UP BAR - underpull_Robros - YES - YES - 15
   
-M7 - ROBOT DANCE - TBD - YES -
+M7 - ROBOT DANCE - TBD - YES - 20
   
-M8 - BOCCIA - TBD - YES - 
+M8-1 - BOCCIA - TBD - YES - 25
+M8-2 - BOCCIA - TBD - YES - 25
   
 M9 - TIRE FLIP - TBD - NO - 
   
 M10 - CELL PHONE - TBD - NO - 
   
-M11 - TREADMILL - TBD - YES - 
+M11 - TREADMILL - TBD - NO - 
   
 M12 - ROW MACHINE - TBD - YES - 
   
 M13 - WEIGHT MACHINE - TBD - YES - 
   
-M14 - HEALTH UNITS - TBD - YES - 
+M14 - HEALTH UNITS - 3  - YES - 15
 
-M15 - PRECISION - YES - YES - # OF TOKENS STILL ON FIELD
+M15 - PRECISION - YES - YES - 60
 
 
 
